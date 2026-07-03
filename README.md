@@ -1,2 +1,20 @@
-# python-prompt-engineering-mock-llm
-This example demonstrates the core concept of prompt engineering for AI-powered development, as discussed in the article. It uses a mock Large Language Model (LLM) to show how different prompts can elicit various responses for tasks like summarization, keyword extraction, and sentiment analysis, without writing complex code. The focus is on how a w
+# Python Prompt Engineering Mock LLM
+
+This example demonstrates the core concept of prompt engineering for AI-powered development, as discussed in the article. It uses a mock Large Language Model (LLM) to show how different prompts can elicit various responses for tasks like summarization, keyword extraction, and sentiment analysis, without writing complex code. The focus is on how a well-crafted prompt guides the 'AI's' behavior.
+
+## Language
+
+`python`
+
+## How to Run
+
+Save the code as `main.py`.
+Run from your terminal: `python main.py`
+
+## Original Article
+
+This example accompanies the Turkish article: [Python Kodunu Prompt ile Değiştirmek: Yapay Zeka Destekli Geliştirmede Yeni Bir Dönem](https://fatihsoysal.com/blog/python-kodunu-prompt-ile-degistirmek-yapay-zeka-destekli-gelistirmede-yeni-bir-donem/).
+
+## License
+
+MIT — see [LICENSE](LICENSE).
